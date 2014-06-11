@@ -1,3 +1,3 @@
 cucumber-bdd-example
 =============
-A simple application demonstrationg essentials Behavior-Driven Developlent (BDD) with Cucumber
+A simple application demonstrating essentials of Behavior-Driven Developlent (BDD) with Cucumber
