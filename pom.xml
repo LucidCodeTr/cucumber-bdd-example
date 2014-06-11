@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
     <modelVersion>4.0.0</modelVersion>
-    <groupId>tr.com.lucidcode.demo.cucumber</groupId>
-    <artifactId>cucumber-demo</artifactId>
+    <groupId>tr.com.lucidcode.demo.calculator</groupId>
+    <artifactId>cucumber-bdd-example</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
         <dependency>
